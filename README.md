@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at (https://javadevshashwat.github.io/)
+- 👨‍💻 All of my projects are available at (https://yedhunanthan.github.io/yethunanthan.github.io/)
 
 - 💬 Ask me about **JavaScript, Java**
 
